@@ -15,6 +15,8 @@ After the ISP blocked the leading MagnetDL website in some regions, several mirr
 As some proxy sites are disabled, several active Magnetdl proxy sites continue to work without any issues. These proxy sites come from the internet and are checked for user reliability. You can open any of these Magnetdl proxy sites accessible in your browser.
 
 
+![MagnetDL Proxy](https://github.com/unblocktorrents/MagnetDL-Proxy/blob/master/magnetDL-proxy.png)
+
 #### Question: How do I unlock MagnetDL?
 > Answer: To unblock MagnetDL website, you can use various effective methods. This includes the use of magnetic proxies or mirror sites that act as alternative sites that can reproduce the original content and bypass restrictions. In other ways, you can use TOR browser and VPN to unblock MagnetDL website.
 
