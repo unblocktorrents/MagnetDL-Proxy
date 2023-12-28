@@ -17,7 +17,7 @@ As some proxy sites are disabled, several active Magnetdl proxy sites continue t
 
 ![MagnetDL Proxy](https://github.com/unblocktorrents/MagnetDL-Proxy/blob/master/magnetDL-proxy.png)
 
-#### Question: How do I unlock MagnetDL?
+#### Question: How I can unblock MagnetDL?
 > To unblock MagnetDL website, you can use various effective methods. This includes the use of magnetic proxies or mirror sites that act as alternative sites that can reproduce the original content and bypass restrictions. In other ways, you can use TOR browser and VPN to unblock MagnetDL website.
 
 #### Question: Can I access MagnetDL without using a VPN?
@@ -27,6 +27,6 @@ As some proxy sites are disabled, several active Magnetdl proxy sites continue t
 > MagnetDL not available in some countries like India, Italy and GB. If you have access to it in your area, use the magnetDL proxy site.
 
 
-# MagnetDL is ublocked
+# MagnetDL is unblocked
 Have you tried all the above methods and unlocked MagnetDL? Then congratulations and you can continue browsing the site. We recommend that you purchase a good VPN service that will provide you with full anonymity protection. When accessing these MagnetDL proxy sites, you can enable VPN and continue access.
 If you can't open magnetdl.com then try again and again. Any of the above methods will definitely suit you. Otherwise, you can use alternative MagnetDl sites to download movies, TV shows, games, etc.
