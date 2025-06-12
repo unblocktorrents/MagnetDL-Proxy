@@ -1,5 +1,5 @@
 ##################
-MagnetDL Proxy - 100% Working MagnetDL Mirror Sites 2024
+MagnetDL Proxy - 100% Working MagnetDL Mirror Sites 2025
 ##################
 
 
@@ -9,6 +9,7 @@ Magnetdl was founded in 2012 and it is a popular torrent site with a reputation 
 We have carefully selected the following collection of MagnetDL online proxy sites. We frequently update and check the list of MagnetDL proxy sites below. You can view all mirror and proxy sites for MagnetDL below:
 
 - https://magnetdl.torrentbay.st
+- https://magnetdl.torrentbay.to
 - https://magnetdl.torrentsbay.org
 - https://magnetdl.ninjaproxy1.com
 - https://magnetdl.abcproxy.org
